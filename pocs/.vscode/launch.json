@@ -799,6 +799,406 @@
             "target": "main",
             "configuration": "release",
             "preLaunchTask": "swift: Build Release main (variadic)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/any-protocol",
+            "name": "Debug main (any-protocol)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (any-protocol)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/any-protocol",
+            "name": "Release main (any-protocol)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (any-protocol)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/async-await",
+            "name": "Debug main (async-await)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (async-await)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/async-await",
+            "name": "Release main (async-await)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (async-await)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/bitwise",
+            "name": "Debug main (bitwise)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (bitwise)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/bitwise",
+            "name": "Release main (bitwise)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (bitwise)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/closure-capture",
+            "name": "Debug main (closure-capture)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (closure-capture)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/closure-capture",
+            "name": "Release main (closure-capture)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (closure-capture)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/collection-ops",
+            "name": "Debug main (collection-ops)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (collection-ops)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/collection-ops",
+            "name": "Release main (collection-ops)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (collection-ops)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/compact-map",
+            "name": "Debug main (compact-map)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (compact-map)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/compact-map",
+            "name": "Release main (compact-map)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (compact-map)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/comparable",
+            "name": "Debug main (comparable)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (comparable)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/comparable",
+            "name": "Release main (comparable)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (comparable)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/hashable",
+            "name": "Debug main (hashable)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (hashable)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/hashable",
+            "name": "Release main (hashable)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (hashable)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/higher-order",
+            "name": "Debug main (higher-order)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (higher-order)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/higher-order",
+            "name": "Release main (higher-order)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (higher-order)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/keypaths",
+            "name": "Debug main (keypaths)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (keypaths)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/keypaths",
+            "name": "Release main (keypaths)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (keypaths)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/pattern-matching",
+            "name": "Debug main (pattern-matching)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (pattern-matching)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/pattern-matching",
+            "name": "Release main (pattern-matching)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (pattern-matching)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/recursive-enum",
+            "name": "Debug main (recursive-enum)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (recursive-enum)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/recursive-enum",
+            "name": "Release main (recursive-enum)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (recursive-enum)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/result-type",
+            "name": "Debug main (result-type)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (result-type)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/result-type",
+            "name": "Release main (result-type)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (result-type)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/sequence-iterator",
+            "name": "Debug main (sequence-iterator)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (sequence-iterator)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/sequence-iterator",
+            "name": "Release main (sequence-iterator)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (sequence-iterator)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/stride",
+            "name": "Debug main (stride)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (stride)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/stride",
+            "name": "Release main (stride)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (stride)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/string-regex",
+            "name": "Debug main (string-regex)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (string-regex)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/string-regex",
+            "name": "Release main (string-regex)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (string-regex)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/type-casting",
+            "name": "Debug main (type-casting)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (type-casting)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/type-casting",
+            "name": "Release main (type-casting)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (type-casting)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/value-vs-ref",
+            "name": "Debug main (value-vs-ref)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (value-vs-ref)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/value-vs-ref",
+            "name": "Release main (value-vs-ref)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (value-vs-ref)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/where-clause",
+            "name": "Debug main (where-clause)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (where-clause)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/where-clause",
+            "name": "Release main (where-clause)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (where-clause)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/zip-enumerate",
+            "name": "Debug main (zip-enumerate)",
+            "target": "main",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug main (zip-enumerate)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:pocs}/zip-enumerate",
+            "name": "Release main (zip-enumerate)",
+            "target": "main",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release main (zip-enumerate)"
         }
     ]
 }
